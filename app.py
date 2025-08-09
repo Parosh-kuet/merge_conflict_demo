@@ -1,1 +1,1 @@
-print('Hello from main')
+echo print('Hello from both world')

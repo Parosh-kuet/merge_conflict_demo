@@ -1,1 +1,1 @@
-echo print('Hello from both world')
+print('Hello from both world')
